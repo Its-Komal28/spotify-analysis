@@ -1,0 +1,12 @@
+plotly-express
+pandas 
+numpy
+pillow
+io
+requests
+json
+csv
+dotenv
+base64
+wordcloud
+matplotlib
