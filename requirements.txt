@@ -3,8 +3,6 @@ pandas
 numpy
 pillow
 requests
-json
-csv
 dotenv
 base64
 wordcloud
