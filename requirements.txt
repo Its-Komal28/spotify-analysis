@@ -2,7 +2,6 @@ plotly-express
 pandas 
 numpy
 pillow
-io
 requests
 json
 csv
